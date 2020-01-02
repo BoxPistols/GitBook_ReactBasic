@@ -3,5 +3,6 @@
 * [01 Starter](README.md)
 * [02 Data list](02-data-list.md)
 * [03 map function](03-map-function.md)
-* [04 ClickChangeEvent](04-clickchangeevent.md)
+* [04 ClickChangeEvent](untitled.md)
+* [05 Component](05-component.md)
 
