@@ -5,4 +5,5 @@
 * [03 map function](03-map-function.md)
 * [04 ClickChangeEvent](untitled.md)
 * [05 Component](05-component.md)
+* [06 Component props](06-component-props.md)
 
