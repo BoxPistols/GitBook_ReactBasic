@@ -2,7 +2,7 @@
 description: 03 bind inputForm ViewChange
 ---
 
-# Untitled
+# 04 ClickChange Event
 
 ```javascript
 let dom = document.querySelector('#root');
